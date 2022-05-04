@@ -9,7 +9,7 @@ const ContactCode = () => {
       <p className={styles.line}>
         &nbsp;&nbsp;&nbsp;website:{' '}
         <a href="https://nitinranganath.me" target="_blank" rel="noopener">
-          nitinranganath.me
+        https://dreamy-leakey-2ad752.netlify.app/
         </a>
         ;
       </p>
